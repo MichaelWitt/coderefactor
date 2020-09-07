@@ -1,3 +1,5 @@
+/* Full Page CSS*/
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -6,6 +8,15 @@
 
 body {
     background-color: #d9dcd6;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
 }
 
 /* Header */
@@ -43,15 +54,6 @@ header div ul li {
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
-
 /* Main Section Body */
 
 section {
@@ -77,6 +79,24 @@ article {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+}
+
+.main-section {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.main-section img {
+    max-height: 200px;
+}
+
+.main-section h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
 }
 
 /* Aside Right Bar */
@@ -106,26 +126,6 @@ aside {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-
-/* Main Section Layout/CSS */
-
-.main-section {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.main-section img {
-    max-height: 200px;
-}
-
-.main-section h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 /* Footer */
