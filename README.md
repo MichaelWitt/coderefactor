@@ -11,7 +11,7 @@ Thanks for checking out my first project on the road to development!
 
 
 
-## Website
+## Website & Refactory
 
 View the website at: https://michaelwitt.github.io/homework1coderefactor/
 
