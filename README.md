@@ -1,6 +1,6 @@
 # homework1coderefactor
 
-Code Refactor.
+*Code Refactor.*
 
 In this challenge we were tasked with the mission of taking existing code and refacting it to a more readable, organized, and clean html and css. I optimized the code by implementing semantic elements and adding applicable attributes and organization. 
 
@@ -35,6 +35,6 @@ Licensed under the MIT license.
 https://choosealicense.com/licenses/mit/
 
 
-# Contributor Covenant Code of Conduct
+## Contributor Covenant Code of Conduct
 
 https://www.contributor-covenant.org/version/2/0/code_of_conduct/
