@@ -1,4 +1,4 @@
-# homework1coderefactor
+# coderefactor
 
 *Code Refactor.*
 
