@@ -29,19 +29,6 @@ UNC Coding Bootcamp for the pre-built CSS, HTML, Links, & Images.
 Trilogy Education Services
 
 
-## License
-
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
-
-Licensed under the MIT license.
-
-https://choosealicense.com/licenses/mit/
-
-
-## Contributor Covenant Code of Conduct
-
-https://www.contributor-covenant.org/version/2/0/code_of_conduct/
-
 ## Thanks For Visiting!
 
 Come back soon :)
